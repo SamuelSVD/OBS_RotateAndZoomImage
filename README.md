@@ -10,9 +10,13 @@ You can easily change the image and set the rotation and zoom parameters!
 
 ![Settings](https://user-images.githubusercontent.com/36249705/115948975-7be08880-a49f-11eb-9b30-b92e7494714b.png)
 
-<a href="https://twitter.com/SamuelSVD">
-    <img src="https://img.shields.io/badge/contact-%40SamuelSVD-blue.svg?style=flat" alt="Twitter: @hukicamer" />
-</a>
 
 # Download
 <a href='https://github.com/SamuelSVD/OBS_RotateAndZoomImage/archive/refs/heads/main.zip'>Click Here</a>
+
+
+Got any ideas for something that could look cool on OBS? Let me know!
+
+<a href="https://twitter.com/SamuelSVD">
+    <img src="https://img.shields.io/badge/contact-%40SamuelSVD-blue.svg?style=flat" alt="Twitter: @hukicamer" />
+</a>
